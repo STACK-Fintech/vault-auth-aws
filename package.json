@@ -1,14 +1,14 @@
 {
-  "name": "vault-auth-aws",
+  "name": "@stack-fintech/vault-auth-aws",
   "version": "0.1.7",
   "description": "js module that get token from vault HashiCorp server by using AWS STS ",
   "main": "index.js",
   "bugs": {
-    "url": "https://github.com/abdullahshahin/vault-auth-aws/issues"
+    "url": "https://github.com/STACK-Fintech/vault-auth-aws/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/abdullahshahin/vault-auth-aws"
+    "url": "https://github.com/STACK-Fintech/vault-auth-aws"
   },
   "directories": {
     "test": "test"
@@ -38,6 +38,6 @@
     "lambda",
     "sts"
   ],
-  "author": "Abdullah Shahin <eng.abd.shahin@gmail.com>",
+  "author": "Meyenehi Iduwe <mey@getstack.ca>",
   "license": "ISC"
 }
